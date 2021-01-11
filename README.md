@@ -8,7 +8,7 @@ The application has been developed using python 3.6 and the following libraries:
 - Numpy
 - OpenCV 4.4.0
 - Tensorflow 2.0.0
-<br>
+
 **Steps**
 1. Capture live stream from camera
 2. Localize and extract sudoku grid from video stream
