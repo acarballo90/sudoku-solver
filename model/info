@@ -1,0 +1,1 @@
+CNN trained on a dataset of 25k self-generated numeric digits. Developed with Keras sequential API using tensorflow as backend.
