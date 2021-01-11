@@ -3,13 +3,13 @@
 Sudoku solver using OpenCV and Deep Learning
 
 
-## Dependencies** <br>
+### Dependencies
 The application has been developed using python 3.6 and the following libraries:
 - Numpy
 - OpenCV 4.4.0
 - Tensorflow 2.0.0
 
-## Steps**
+### Steps
 1. Capture live stream from camera
 2. Localize and extract sudoku grid from video stream
 3. Given the sudoku board location, localize each of the cells (9 rows x 9 columns = 81 cells)
