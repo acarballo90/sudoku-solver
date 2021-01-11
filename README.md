@@ -9,7 +9,7 @@ Sudoku solver using OpenCV and Deep Learning
 3. Identify digits in the sudoku puzzle using a CNN
 4. Create a numeric grid and solve it using a backtracking algorithm
 
-**Dependencies**
+**Dependencies** <br>
 The application has been developed using python 3.6 and the following libraries:
 - Numpy
 - OpenCV 4.4.0
