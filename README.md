@@ -4,10 +4,12 @@ Sudoku solver using OpenCV and Deep Learning
 
 
 **Steps**
-1. Capture video from camera
-2. Identify and extract sudoku grid from video stream
-3. Identify digits in the sudoku puzzle using a CNN
-4. Create a numeric grid and solve it using a backtracking algorithm
+1. Capture live stream from camera
+2. Localize and extract sudoku grid from video stream
+3. Given the sudoku board location, localize each of the cells (9 rows x 9 columns = 81 cells)
+4. For each cell in the sudoku puzzle, determine if a digit exists in cell, and if so identify the digit using a CNN
+5. Given the identified digits, create a numeric grid and solve it using a bactracking algorith
+6. Display solved sudoku puzzle to user
 
 **Dependencies** <br>
 The application has been developed using python 3.6 and the following libraries:
