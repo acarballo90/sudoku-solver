@@ -2,7 +2,7 @@
 
 Sudoku solver using OpenCV and Deep Learning
 
-![](sudoku.gif)
+![](https://github.com/acarballo90/sudoku-solver/blob/main/sudoku.gif)
 
 ### Dependencies
 The application has been developed using python 3.6 and the following libraries:
